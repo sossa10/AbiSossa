@@ -9,11 +9,9 @@ The number of tributaries of the river is superior to 1.000 and at the moment th
 Sadly, the river is contaminated as there is agricultural and mining activities in the region. That is why is important for the young generations to understand the importance of this river and work to change the situation in the short term.
 
 |  Countries  |   Animals  |
-|             |            |
+|:-----------:|:----------:|
 |  Colombia   |  Piranhas  |
-|             |            |
 |   Brazil    |  Manatee   |
-|:-----------:|:          :|
 |    Peru     | P. Dolphin |
 
 Similar rivers:
