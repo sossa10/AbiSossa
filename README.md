@@ -13,7 +13,7 @@ Sadly, the river is contaminated as there is agricultural and mining activities 
 |  Colombia   |  Piranhas  |
 |             |            |
 |   Brazil    |  Manatee   |
-|             |            |
+|:-----------:|:          :|
 |    Peru     | P. Dolphin |
 
 Similar rivers:
