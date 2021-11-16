@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
     # call the solver with user-defined channel geometry and discharge
     h_n = interpolate_h(Q, b, m_bank, S_0, k=Answer[1])
-    print("The result of the interpolation of h is: %0.2f m3/s and the eps is: %0.4f" % (h_n[0],h_n[1]))
+    print("The result of the interpolation of h is: %0.2f m and the eps is: %0.4f" % (h_n[0],h_n[1]))
 
     Answer2 = calc_discharge(b, h_n[0], m_bank, S_0, k=Answer[1])
     print("Finally, the result of Q using the interpolated h is %0.2f m3/s" % Answer2[0])
